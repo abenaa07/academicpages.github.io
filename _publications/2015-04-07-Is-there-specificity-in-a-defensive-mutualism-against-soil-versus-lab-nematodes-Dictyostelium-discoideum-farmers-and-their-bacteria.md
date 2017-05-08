@@ -6,7 +6,7 @@ excerpt: 'Do the defensive bacteria that farmers carry also protect farmers from
 date: 2015-04-07
 venue: 'Evolutionary Ecology Research'
 paperurl: 'http://abenaa07.github.io/files/Is-there-specificity-in-a-defensive-mutualism-against-soil-versus.pdf'
-citation: 'Boahemaa Adu-Oppong, Joan E. Strassmann, David C. Queller (2015). &quot;Is there specificity in a defensive mutualism against soil versus lab nematodes, Dictyostelium discoideum farmers and their bacteria?.&quot; <i>Evolutionary Ecology Research</i>. 16.'
+citation: '<b>Boahemaa Adu-Oppong</b>, Joan E. Strassmann, David C. Queller (2015). &quot;Is there specificity in a defensive mutualism against soil versus lab nematodes, Dictyostelium discoideum farmers and their bacteria?.&quot; <i>Evolutionary Ecology Research</i>. 16.'
 ---
 
 [Download paper here](http://abenaa07.github.io/files/Is-there-specificity-in-a-defensive-mutualism-against-soil-versus.pdf)
