@@ -1,7 +1,7 @@
 ---
 title: "Mining the microbiome using genomic technologies for antibiotic resistance and discovery."
 collection: publications
-permalink: /publication/2016_GenomicFunctionalMiningAbxResProd
+permalink: /publications/2016_GenomicFunctionalMiningAbxResProd
 excerpt: 'Microbial communities contain diverse bacteria that play important roles in every environment. Advances in sequencing and computational methodologies over the past decades have illuminated the phylogenetic and functional diversity of microbial communities from diverse habitats.'
 date: 2016-10-21
 venue: 'Annals of the New York Academy of Sciences '
