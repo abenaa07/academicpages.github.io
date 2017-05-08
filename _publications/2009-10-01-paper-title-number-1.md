@@ -5,7 +5,7 @@ permalink: http://onlinelibrary.wiley.com/doi/10.1111/nyas.13257/full
 excerpt: 'Microbial communities contain diverse bacteria that play important roles in every environment. Advances in sequencing and computational methodologies over the past decades have illuminated the phylogenetic and functional diversity of microbial communities from diverse habitats.'
 date: 2016-10-21
 venue: 'Annals of the New York Academy of Sciences '
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://abenaa07.github.io/files/2016_Adu-Oppong_Gasparrini_GenomicFunctionalMiningAbxResProd_REVIEW_AnnalsNYAS.pdf'
 citation: 'B Adu‐Oppong, AJ Gasparrini, G Dantas. (2017). &quot;Genomic and functional techniques to mine the microbiome for novel antimicrobials and antimicrobial resistance genes.&quot; <i>Annals of the New York Academy of Sciences</i>. 1388.'
 ---
 
