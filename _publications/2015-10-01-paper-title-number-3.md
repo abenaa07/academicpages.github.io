@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Is there specificity in a defensive mutualism against soil versus lab nematodes, Dictyostelium discoideum farmers and their bacteria?"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
