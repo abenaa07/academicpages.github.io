@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 3"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/2014-spring-teaching-3
 venue: "Washington University in St. Louis, Biology"
 date: 2014-01-10
 location: "St. Louis, MO, USA"
