@@ -236,7 +236,7 @@ defaults:
   # _posters-presentations
   - scope:
       path: ""
-      type: posters
+      type: poster
     values:
       layout: single
       author_profile: true
