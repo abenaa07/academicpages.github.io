@@ -11,4 +11,4 @@ citation: 'Boahemaa Adu-Oppong, Joan E. Strassmann, David C. Queller (2015). &qu
 
 [Download paper here](http://abenaa07.github.io/files/Is-there-specificity-in-a-defensive-mutualism-against-soil-versus.pdf)
 
-Recommended citation: Adu-Oppong,, Boahemaa; Queller, David C.; and Strassmann, Joan E., "Is there specificity in a defensive mutualism against soil versus lab nematodes, Dictyostelium discoideum farmers and their bacteria?" (2015). Biology Faculty Publications & Presentations. 62.http://openscholarship.wustl.edu/bio_facpubs/62 
+Recommended citation: Adu-Oppong, Boahemaa; Queller, David C.; and Strassmann, Joan E., "Is there specificity in a defensive mutualism against soil versus lab nematodes, Dictyostelium discoideum farmers and their bacteria?" (2015). Biology Faculty Publications & Presentations. 62.http://openscholarship.wustl.edu/bio_facpubs/62 
