@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Public Outreach"
+    url: /outreach/
+
   - title: "Publications"
     url: /publications/
 
@@ -17,6 +20,3 @@ main:
     
   - title: "CV"
     url: /cv/
- 
-  - title: "Public Outreach"
-    url: /outreach/
