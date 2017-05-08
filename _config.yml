@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : 
+  name             : "Boahemaa Adu-Oppong"
+  avatar           : "adu-oppong.jpg"
+  bio              : "PhD student in Ecology, Evolution and Population Biology"
+  location         : "St. Louis, MO"
+  employer         : "Washington University in St. Louis"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "badu-oppong@wustl.edu"
   uri              : 
   bitbucket        :
   codepen          :
