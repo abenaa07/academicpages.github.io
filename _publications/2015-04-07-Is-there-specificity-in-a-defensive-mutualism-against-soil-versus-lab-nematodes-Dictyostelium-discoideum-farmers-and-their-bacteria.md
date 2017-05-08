@@ -1,7 +1,7 @@
 ---
 title: "Is there specificity in a defensive mutualism against soil versus lab nematodes, Dictyostelium discoideum farmers and their bacteria?"
 collection: publications
-permalink: /publication/2015-04-07-2015-04-07-Is-there-specificity-in-a-defensive-mutualism-against-soil-versus-lab-nematodes-Dictyostelium-discoideum-farmers-and-their-bacteria.md
+permalink: /publication/2015-04-07-2015-04-07-Is-there-specificity-in-a-defensive-mutualism-against-soil-versus-lab-nematodes-Dictyostelium-discoideum-farmers-and-their-bacteria
 excerpt: 'Do the defensive bacteria that farmers carry also protect farmers from nematodes? Is this protection specific to nematodes that reside with <i>D. discoideum</i>?'
 date: 2015-04-07
 venue: 'Evolutionary Ecology Research'
