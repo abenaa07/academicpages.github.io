@@ -6,7 +6,7 @@ excerpt: 'Microbial communities contain diverse bacteria that play important rol
 date: 2016-10-21
 venue: 'Annals of the New York Academy of Sciences '
 paperurl: 'http://abenaa07.github.io/files/2016_Adu-Oppong_Gasparrini_GenomicFunctionalMiningAbxResProd_REVIEW_AnnalsNYAS.pdf'
-citation: 'B Adu‐Oppong, AJ Gasparrini, G Dantas. (2017). &quot;Genomic and functional techniques to mine the microbiome for novel antimicrobials and antimicrobial resistance genes.&quot; <i>Annals of the New York Academy of Sciences</i>. 1388.'
+citation: '<b>B Adu‐Oppong</b>, AJ Gasparrini, G Dantas. (2017). &quot;Genomic and functional techniques to mine the microbiome for novel antimicrobials and antimicrobial resistance genes.&quot; <i>Annals of the New York Academy of Sciences</i>. 1388.'
 ---
 
 [Download paper here](http://abenaa07.github.io/files/2016_Adu-Oppong_Gasparrini_GenomicFunctionalMiningAbxResProd_REVIEW_AnnalsNYAS.pdf)
