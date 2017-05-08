@@ -177,7 +177,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  posters:
+  posters-presentations:
     output: true
     permalink: /:collection/:path
   outreach:
@@ -233,7 +233,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _posters
+  # _posters-presentations
   - scope:
       path: ""
       type: posters
