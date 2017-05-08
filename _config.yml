@@ -177,9 +177,13 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  posters:
+    output: true
+    permalink: /:collection/:path
+  outreach:
     output: true
     permalink: /:collection/:path/
+    
 
 
 # Defaults
@@ -229,14 +233,24 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _posters
   - scope:
       path: ""
-      type: talks
+      type: posters
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
       
 # Sass/SCSS
 sass:
