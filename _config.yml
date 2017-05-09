@@ -180,7 +180,7 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
-   outreach-exp:
+  outreach-exp:
     output: true
     permalink: /:collection/:path/
     
