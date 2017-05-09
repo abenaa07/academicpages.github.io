@@ -38,6 +38,8 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p>{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.journal %}<p>Published in: {{post.journal}}{% endif %}
+    {% if post.years %}<p>{{post.years}}{% endif %}
+    {% if post.excerpt %}<p>{{post.excerpt}}{% endif %}
     {% if post.articleurl %}<p>Link to <a href=" {{ post.articleurl }} "><u>article</u></a></p>{% endif %}
   </article>
 </div>
