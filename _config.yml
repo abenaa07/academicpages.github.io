@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _cv
   - scope:
       path: ""
-      type: portfolio
+      type: cv
     values:
       layout: single
       author_profile: true
