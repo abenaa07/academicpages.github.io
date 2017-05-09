@@ -5,3 +5,6 @@ permalink: /cv/
 ---
 
 {% include base_path %}
+{% for post in site.cv %}
+{{content}}
+{% endfor %}
