@@ -1,1 +1,3 @@
- [[170509_cv.pdf]]
+<div id="example1"></div>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("170509_cv.pdf", "#example1");</script>
