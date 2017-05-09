@@ -183,6 +183,9 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
+   outreach-exp:
+    output: true
+    permalink: /:collection/:path/
     
 
 
@@ -246,6 +249,15 @@ defaults:
   - scope:
       path: ""
       type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _outreach-exp
+  - scope:
+      path: ""
+      type: outreach-exp
     values:
       layout: single
       author_profile: true
