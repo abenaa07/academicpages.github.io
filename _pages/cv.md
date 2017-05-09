@@ -1,3 +1,6 @@
-<div id="example1"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("170509_cv.pdf", "#example1");</script>
+---
+title: "Current Resume"
+layout: pdf
+---
+
+<iframe src="https://docs.google.com/file/d/0B8aGkJVsdqiJamVpUnJ1TDlFbFU/preview" width="100%" height="100%"></iframe>
