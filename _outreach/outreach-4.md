@@ -5,4 +5,3 @@ permalink: /outreach/outreach-4
 journal: 'Science Friday, October 2016'
 articleurl: 'http://www.sciencefriday.com/segments/the-microscopic-world-beneath-our-feet/'
 ---
-[Link to article](http://www.sciencefriday.com/segments/the-microscopic-world-beneath-our-feet/)
