@@ -9,7 +9,7 @@ amoeba <i>Dictyostelium discoideum.</i>'
 date: 2012-07-04
 venue: 'Biology Letters'
 paperurl: 'http://abenaa07.github.io/files/2012_Structured_Growth_and_genetic_drift.pdf'
-citation: 'Neil Buttery, Chandra N. Jack, Boahemaa Adu-Oppong, Kate Snyder, Chris Thompson, David C. Queller, Joan E. Strassmann(2012). &quot;Structured growth and genetic drift raise relatedness in the social amoeba <i>D. discoideum</i>. &quot; <i>Biology Letters</i> 8(5).'
+citation: 'Neil Buttery, Chandra N. Jack, <b>Boahemaa Adu-Oppong</b>, Kate Snyder, Chris Thompson, David C. Queller, Joan E. Strassmann(2012). &quot;Structured growth and genetic drift raise relatedness in the social amoeba <i>D. discoideum</i>. &quot; <i>Biology Letters</i> 8(5).'
 ---
 
 [Download paper here](http://abenaa07.github.io/files/2013_Collection_Cultivation_of_Dictyostelids_from_the_Wild.pdf )
