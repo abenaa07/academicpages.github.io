@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Public Outreach Talks/Conferences/Newsarticles"
+  - title: "Outreach Talks/Conferences/Newsarticles"
     url: /outreach/
+    
+  - title: "Outreach Experience"
+    url: /outreach-exp/
 
   - title: "Publications"
     url: /publications/
@@ -11,9 +14,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
