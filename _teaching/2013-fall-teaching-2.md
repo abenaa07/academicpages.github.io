@@ -3,7 +3,7 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-fall-teaching-2
-venue: "Washington University in St. Louis, Biology"
+university: "Washington University in St. Louis, Biology"
 date: 2013-08-24
 location: "St. Louis, Mo, USA"
 ---
