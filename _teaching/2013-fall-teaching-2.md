@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-fall-teaching-2
 university: "Washington University in St. Louis, Biology"
-date: 2013-08-24
+year: Fall, 2013
 location: "St. Louis, Mo, USA"
 ---
 ## Behavioral Ecology 
