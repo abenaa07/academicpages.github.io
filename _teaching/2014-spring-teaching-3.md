@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-3
 university: "Washington University in St. Louis, Biology"
-date: 2014-01-10
+semester: Spring, 2014
 location: "St. Louis, MO, USA"
 ---
 ## Experimental Ecology
